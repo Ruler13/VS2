@@ -1,0 +1,217 @@
+2018-11-06 21:14:58,340 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=540, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-06 21:22:36,316 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=508, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-06 21:23:01,286 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-06 21:24:34,422 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=436, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-06 21:25:25,562 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=452, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-06 21:41:02,706 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=516, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-06 21:41:06,296 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=516, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55896), raddr=('127.0.0.1', 50007)>
+2018-11-06 21:41:06,303 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-06 21:41:21,677 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=516, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-06 21:41:23,977 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=540, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55899), raddr=('127.0.0.1', 50007)>
+2018-11-06 21:41:23,977 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-06 21:41:23,977 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-06 21:42:15,270 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=564, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-06 21:42:21,516 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=508, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55902), raddr=('127.0.0.1', 50007)>
+2018-11-06 21:42:21,516 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-06 21:42:21,516 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-06 21:43:30,326 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=508, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-06 21:43:38,720 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=508, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55905), raddr=('127.0.0.1', 50007)>
+2018-11-06 21:43:38,726 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-06 21:44:31,632 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=548, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-06 21:44:33,919 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=556, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55909), raddr=('127.0.0.1', 50007)>
+2018-11-06 21:44:33,919 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-06 21:44:33,919 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-06 21:44:46,248 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=520, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-06 21:44:49,509 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=520, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55911), raddr=('127.0.0.1', 50007)>
+2018-11-06 21:44:49,515 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-06 21:45:07,995 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=512, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-06 21:45:10,464 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=508, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55912), raddr=('127.0.0.1', 50007)>
+2018-11-06 21:45:10,471 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-06 21:49:12,155 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=560, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-06 21:49:14,823 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=508, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55935), raddr=('127.0.0.1', 50007)>
+2018-11-06 21:49:14,823 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-06 21:49:14,823 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-06 21:50:23,603 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=556, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-06 21:50:27,690 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=552, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55941), raddr=('127.0.0.1', 50007)>
+2018-11-06 21:50:27,696 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-06 21:51:28,300 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=580, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-06 21:51:31,746 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=528, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55950), raddr=('127.0.0.1', 50007)>
+2018-11-06 21:51:31,746 - vs2lab.a1_layers.clientserver.Server - INFO - b'ALL'
+2018-11-06 21:51:31,752 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-06 21:52:06,331 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=448, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-06 21:52:08,795 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=552, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 55953), raddr=('127.0.0.1', 50007)>
+2018-11-06 21:52:08,796 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-06 21:52:08,796 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 13:58:19,764 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=644, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 13:58:27,179 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=512, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 60968), raddr=('127.0.0.1', 50007)>
+2018-11-08 13:58:27,179 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 13:58:27,179 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 13:59:38,253 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=536, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 13:59:40,965 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=512, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 60992), raddr=('127.0.0.1', 50007)>
+2018-11-08 13:59:40,965 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 13:59:40,966 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 14:38:23,740 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=524, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 14:38:26,498 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=512, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 61619), raddr=('127.0.0.1', 50007)>
+2018-11-08 14:38:26,498 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 14:38:26,498 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 14:53:27,332 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=648, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 14:53:27,890 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=664, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 61924), raddr=('127.0.0.1', 50007)>
+2018-11-08 14:53:27,921 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 14:53:27,921 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 14:54:37,988 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=480, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 14:54:38,518 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=512, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 61927), raddr=('127.0.0.1', 50007)>
+2018-11-08 14:54:38,521 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 14:54:38,521 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 14:55:02,575 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=472, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 14:55:48,395 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=472, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 14:55:48,925 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=552, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 61929), raddr=('127.0.0.1', 50007)>
+2018-11-08 14:55:48,927 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 14:55:48,928 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:00:25,914 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=444, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:00:26,442 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=524, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 61948), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:00:26,445 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:00:26,445 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:03:18,939 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=452, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:03:19,470 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=532, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62100), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:03:19,473 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:03:19,473 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:06:54,498 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=1160, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:07:22,373 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=1056, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62458), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:07:22,375 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:07:22,375 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:08:06,824 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=1176, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:08:12,568 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=1032, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62464), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:08:18,639 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:08:18,639 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:12:19,950 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=1124, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:13:44,847 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=404, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62718), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:14:05,359 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:14:05,359 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:14:23,358 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=1144, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:14:37,143 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=1016, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62721), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:14:45,807 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:14:45,807 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:22:35,370 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=452, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:22:35,897 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=484, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62840), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:22:35,900 - vs2lab.a1_layers.clientserver.Client - INFO - Messages sent.
+2018-11-08 15:22:35,900 - vs2lab.a1_layers.clientserver.Server - INFO - Messages received.
+2018-11-08 15:22:35,901 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:22:35,901 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:23:35,301 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=452, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:23:35,826 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=536, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62843), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:23:35,830 - vs2lab.a1_layers.clientserver.Client - INFO - Messages sent.
+2018-11-08 15:23:35,830 - vs2lab.a1_layers.clientserver.Server - INFO - Messages received.
+2018-11-08 15:23:35,831 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:23:35,831 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:29:02,894 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=456, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:29:03,419 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=536, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62895), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:29:03,422 - vs2lab.a1_layers.clientserver.Client - INFO - Messages sent.
+2018-11-08 15:29:03,422 - vs2lab.a1_layers.clientserver.Server - INFO - Messages received.
+2018-11-08 15:29:03,423 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:29:03,423 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:29:03,423 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=536, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:29:03,934 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=564, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62896), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:29:03,934 - vs2lab.a1_layers.clientserver.Client - INFO - Messages sent.
+2018-11-08 15:29:03,934 - vs2lab.a1_layers.clientserver.Server - INFO - Messages received.
+2018-11-08 15:29:03,935 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:29:03,935 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:38:22,388 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=460, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:38:22,913 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=540, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62944), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:38:22,916 - vs2lab.a1_layers.clientserver.Client - INFO - Messages sent.
+2018-11-08 15:38:22,916 - vs2lab.a1_layers.clientserver.Server - INFO - Messages received.
+2018-11-08 15:38:22,917 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:38:22,917 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:38:22,917 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=540, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:38:23,431 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=588, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62945), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:38:23,432 - vs2lab.a1_layers.clientserver.Client - INFO - Messages sent.
+2018-11-08 15:38:23,432 - vs2lab.a1_layers.clientserver.Server - INFO - Messages received.
+2018-11-08 15:38:23,432 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:38:23,432 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:39:03,430 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=436, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:39:03,955 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62947), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:39:03,959 - vs2lab.a1_layers.clientserver.Client - INFO - Messages sent.
+2018-11-08 15:39:03,959 - vs2lab.a1_layers.clientserver.Server - INFO - Messages received.
+2018-11-08 15:39:03,960 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:39:03,960 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:39:03,960 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=544, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:39:04,473 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=656, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62948), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:39:04,473 - vs2lab.a1_layers.clientserver.Client - INFO - Messages sent.
+2018-11-08 15:39:04,473 - vs2lab.a1_layers.clientserver.Server - INFO - Messages received.
+2018-11-08 15:39:04,474 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:39:04,474 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:39:04,476 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=656, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:39:04,988 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=436, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62949), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:39:04,988 - vs2lab.a1_layers.clientserver.Client - INFO - Messages sent.
+2018-11-08 15:39:04,988 - vs2lab.a1_layers.clientserver.Server - INFO - Messages received.
+2018-11-08 15:39:04,989 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:39:04,989 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:39:26,937 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=472, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:39:27,461 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=552, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62952), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:39:27,465 - vs2lab.a1_layers.clientserver.Client - INFO - Messages sent.
+2018-11-08 15:39:27,465 - vs2lab.a1_layers.clientserver.Server - INFO - Messages received.
+2018-11-08 15:39:27,466 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:39:27,466 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:39:27,466 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=552, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:39:27,978 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=580, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62953), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:39:27,978 - vs2lab.a1_layers.clientserver.Client - INFO - Messages sent.
+2018-11-08 15:39:27,978 - vs2lab.a1_layers.clientserver.Server - INFO - Messages received.
+2018-11-08 15:39:27,979 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:39:27,979 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:39:27,981 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=580, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:39:28,495 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=596, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62954), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:39:28,495 - vs2lab.a1_layers.clientserver.Client - INFO - Messages sent.
+2018-11-08 15:39:28,495 - vs2lab.a1_layers.clientserver.Server - INFO - Messages received.
+2018-11-08 15:39:28,496 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:39:28,496 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:39:40,662 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=444, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:39:41,187 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=476, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62955), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:39:41,190 - vs2lab.a1_layers.clientserver.Client - INFO - Messages sent.
+2018-11-08 15:39:41,190 - vs2lab.a1_layers.clientserver.Server - INFO - Messages received.
+2018-11-08 15:39:41,191 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:39:41,191 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:39:58,016 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=452, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:39:58,540 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=532, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62956), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:39:58,543 - vs2lab.a1_layers.clientserver.Client - INFO - Messages sent.
+2018-11-08 15:39:58,543 - vs2lab.a1_layers.clientserver.Server - INFO - Messages received.
+2018-11-08 15:39:58,544 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:39:58,544 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:39:58,544 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=532, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:39:59,055 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62957), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:39:59,056 - vs2lab.a1_layers.clientserver.Client - INFO - Messages sent.
+2018-11-08 15:39:59,056 - vs2lab.a1_layers.clientserver.Server - INFO - Messages received.
+2018-11-08 15:39:59,056 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:39:59,056 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:39:59,057 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=568, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:39:59,568 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=576, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62958), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:39:59,568 - vs2lab.a1_layers.clientserver.Client - INFO - Messages sent.
+2018-11-08 15:39:59,569 - vs2lab.a1_layers.clientserver.Server - INFO - Messages received.
+2018-11-08 15:39:59,569 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:39:59,569 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:46:16,880 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=1104, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:46:49,017 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=404, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62982), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:46:51,001 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:46:51,001 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:47:04,369 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=452, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:47:04,894 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=532, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62983), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:47:04,897 - vs2lab.a1_layers.clientserver.Client - INFO - Messages sent.
+2018-11-08 15:47:04,897 - vs2lab.a1_layers.clientserver.Server - INFO - Messages received.
+2018-11-08 15:47:04,898 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:47:04,898 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:47:04,898 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=532, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:47:05,410 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=556, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62984), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:47:05,410 - vs2lab.a1_layers.clientserver.Client - INFO - Messages sent.
+2018-11-08 15:47:05,411 - vs2lab.a1_layers.clientserver.Server - INFO - Messages received.
+2018-11-08 15:47:05,411 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:47:05,411 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-08 15:47:05,412 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=556, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-08 15:47:05,925 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=456, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 62985), raddr=('127.0.0.1', 50007)>
+2018-11-08 15:47:05,926 - vs2lab.a1_layers.clientserver.Client - INFO - Messages sent.
+2018-11-08 15:47:05,926 - vs2lab.a1_layers.clientserver.Server - INFO - Messages received.
+2018-11-08 15:47:05,926 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-08 15:47:05,926 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.
+2018-11-15 14:03:30,905 - vs2lab.a1_layers.clientserver.Server - INFO - Server bound to socket <socket.socket fd=348, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 50007)>
+2018-11-15 14:03:34,189 - vs2lab.a1_layers.clientserver.Client - INFO - Client connected to socket <socket.socket fd=484, family=AddressFamily.AF_INET, type=SocketKind.SOCK_STREAM, proto=0, laddr=('127.0.0.1', 54517), raddr=('127.0.0.1', 50007)>
+2018-11-15 14:03:34,189 - vs2lab.a1_layers.clientserver.Client - INFO - Messages sent.
+2018-11-15 14:03:34,189 - vs2lab.a1_layers.clientserver.Server - INFO - Messages received.
+2018-11-15 14:03:34,189 - vs2lab.a1_layers.clientserver.Client - INFO - Client down.
+2018-11-15 14:03:34,189 - vs2lab.a1_layers.clientserver.Server - INFO - Server down.

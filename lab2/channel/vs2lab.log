@@ -1,0 +1,115 @@
+2018-11-15 14:32:15,968 - vs2lab.channel.Channel - DEBUG - New Channel created.
+2018-11-15 14:32:17,002 - vs2lab.lab2.channel.runsrv - INFO - Flushed all redis keys.
+2018-11-15 14:32:17,002 - vs2lab.channel.Channel - DEBUG - New Channel created.
+2018-11-15 14:32:18,006 - vs2lab.channel.Channel - INFO - Member 24 joining server.
+2018-11-15 14:32:18,006 - vs2lab.lab2.channel.Server - DEBUG - New Server created.
+2018-11-15 14:32:18,007 - vs2lab.channel.Channel - DEBUG - Member 24 bound 3476
+2018-11-15 14:32:18,007 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:32:19,479 - vs2lab.channel.Channel - DEBUG - New Channel created.
+2018-11-15 14:32:20,491 - vs2lab.channel.Channel - INFO - Member 6 joining client.
+2018-11-15 14:32:20,492 - vs2lab.lab2.channel.Client - DEBUG - New Client created.
+2018-11-15 14:32:20,492 - vs2lab.channel.Channel - DEBUG - Member 6 bound 11912
+2018-11-15 14:32:20,492 - vs2lab.channel.Channel - DEBUG - 6 sends Hello from 6 to {'24'}
+2018-11-15 14:32:20,493 - vs2lab.channel.Channel - DEBUG - 6 receives from {'24'}
+2018-11-15 14:32:21,049 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']", "['6', '24']"}
+2018-11-15 14:32:21,049 - vs2lab.channel.Channel - DEBUG - 24 received Hello from 6 from 6
+2018-11-15 14:32:21,050 - vs2lab.channel.Channel - DEBUG - 24 sends Received Hello from 6 to {'6'}
+2018-11-15 14:32:21,050 - vs2lab.channel.Channel - DEBUG - 6 received Received Hello from 6 from 24
+2018-11-15 14:32:21,050 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']", "['6', '24']"}
+2018-11-15 14:32:21,050 - vs2lab.channel.Channel - INFO - Member 6 leaving client
+2018-11-15 14:32:24,064 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:32:27,078 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:32:30,093 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:32:33,106 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:32:36,120 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:32:39,132 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:32:42,146 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:32:45,157 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:32:48,172 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:32:51,186 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:32:54,202 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:32:57,217 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:33:00,230 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:33:03,245 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:33:06,258 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:33:09,272 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:33:12,286 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:33:15,299 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:33:18,310 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:33:21,323 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:33:24,338 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:33:27,354 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:33:30,366 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:33:33,376 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:33:36,389 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:33:39,403 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:33:42,415 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:33:45,428 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:33:48,443 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:33:51,460 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:33:54,476 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:33:57,493 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:34:00,510 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:34:03,526 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:34:06,539 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:34:09,551 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:34:12,564 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:34:15,578 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:34:18,593 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:34:21,605 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:34:24,618 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 14:34:27,633 - vs2lab.channel.Channel - DEBUG - 24 receives from {"['24', '24']"}
+2018-11-15 19:18:00,504 - vs2lab.channel.Channel - DEBUG - New Channel created.
+2018-11-15 19:18:00,761 - vs2lab.channel.Channel - DEBUG - New Channel created.
+2018-11-15 19:18:01,533 - vs2lab.lab2.channel.runsrv - INFO - Flushed all redis keys.
+2018-11-15 19:18:01,533 - vs2lab.channel.Channel - DEBUG - New Channel created.
+2018-11-15 19:18:01,773 - vs2lab.channel.Channel - INFO - Member 7 joining client.
+2018-11-15 19:18:01,773 - vs2lab.lab2.channel.Client - DEBUG - New Client created.
+2018-11-15 19:18:01,774 - vs2lab.channel.Channel - DEBUG - Member 7 bound 10828
+2018-11-15 19:18:01,774 - vs2lab.channel.Channel - DEBUG - 7 sends Hello from 7 to set()
+2018-11-15 19:18:01,774 - vs2lab.channel.Channel - DEBUG - 7 receives from set()
+2018-11-15 19:18:02,537 - vs2lab.channel.Channel - INFO - Member 2 joining server.
+2018-11-15 19:18:02,538 - vs2lab.lab2.channel.Server - DEBUG - New Server created.
+2018-11-15 19:18:02,538 - vs2lab.channel.Channel - DEBUG - Member 2 bound 18272
+2018-11-15 19:18:02,539 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:18:05,634 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:18:08,648 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:18:11,664 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:18:14,679 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:18:17,692 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:18:20,702 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:18:23,718 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:18:26,733 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:18:29,749 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:18:32,763 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:18:35,774 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:18:38,787 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:18:41,801 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:18:44,813 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:18:47,826 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:18:50,843 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:18:53,857 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:18:56,874 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:18:59,885 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:19:01,989 - vs2lab.channel.Channel - DEBUG - New Channel created.
+2018-11-15 19:19:02,901 - vs2lab.channel.Channel - DEBUG - 2 receives from {"['7', '2']", "['2', '2']"}
+2018-11-15 19:19:03,013 - vs2lab.lab2.channel.runsrv - INFO - Flushed all redis keys.
+2018-11-15 19:19:03,014 - vs2lab.channel.Channel - DEBUG - New Channel created.
+2018-11-15 19:19:04,018 - vs2lab.channel.Channel - INFO - Member 19 joining server.
+2018-11-15 19:19:04,019 - vs2lab.lab2.channel.Server - DEBUG - New Server created.
+2018-11-15 19:19:04,019 - vs2lab.channel.Channel - DEBUG - Member 19 bound 13680
+2018-11-15 19:19:04,019 - vs2lab.channel.Channel - DEBUG - 19 receives from {"['19', '19']"}
+2018-11-15 19:19:05,782 - vs2lab.channel.Channel - DEBUG - New Channel created.
+2018-11-15 19:19:06,792 - vs2lab.channel.Channel - INFO - Member 1 joining client.
+2018-11-15 19:19:06,793 - vs2lab.lab2.channel.Client - DEBUG - New Client created.
+2018-11-15 19:19:06,793 - vs2lab.channel.Channel - DEBUG - Member 1 bound 8400
+2018-11-15 19:19:06,794 - vs2lab.channel.Channel - DEBUG - 1 sends Hello from 1 to {'19'}
+2018-11-15 19:19:06,795 - vs2lab.channel.Channel - DEBUG - 1 receives from {'19'}
+2018-11-15 19:19:07,030 - vs2lab.channel.Channel - DEBUG - 19 receives from {"['19', '19']", "['1', '19']"}
+2018-11-15 19:19:07,030 - vs2lab.channel.Channel - DEBUG - 19 received Hello from 1 from 1
+2018-11-15 19:19:07,031 - vs2lab.channel.Channel - DEBUG - 19 sends Received Hello from 1 to {'1'}
+2018-11-15 19:19:07,031 - vs2lab.channel.Channel - DEBUG - 1 received Received Hello from 1 from 19
+2018-11-15 19:19:07,031 - vs2lab.channel.Channel - DEBUG - 19 receives from {"['19', '19']", "['1', '19']"}
+2018-11-15 19:19:07,031 - vs2lab.channel.Channel - INFO - Member 1 leaving client
+2018-11-15 19:19:10,043 - vs2lab.channel.Channel - DEBUG - 19 receives from {"['19', '19']"}
+2018-11-15 19:19:13,058 - vs2lab.channel.Channel - DEBUG - 19 receives from {"['19', '19']"}

@@ -1,0 +1,6 @@
+pipenv run python splitter.py
+pipenv run python mapper.py 1
+pipenv run python mapper.py 2
+pipenv run python mapper.py 3
+pipenv run python reducer.py 1
+pipenv run python reducer.py 2

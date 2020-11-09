@@ -1,0 +1,5 @@
+2018-11-15 14:05:01,451 - vs2lab.lab2.rpyc.server - INFO - Server starting...
+2018-11-15 14:05:12,967 - vs2lab.lab2.rpyc.Client - INFO - Connected.
+2018-11-15 14:05:12,970 - vs2lab.lab2.rpyc.Client - INFO - Append 2: '[2]'
+2018-11-15 14:05:12,971 - vs2lab.lab2.rpyc.Client - INFO - Append 4: '[2, 4]'
+2018-11-15 14:05:12,972 - vs2lab.lab2.rpyc.Client - INFO - Stored value: '[2, 4]'
